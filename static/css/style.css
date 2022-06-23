@@ -438,13 +438,13 @@ li > a:only-child:after {
 .banner-info h3 {
     font-size: 3.5em;
     letter-spacing: 2px;
-    color: #C0C0C0;
+    color: rgb(130,130,200);
     text-transform: uppercase;
     text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
 }
 
 .banner-info p {
-    color: #fff;
+    color: rgb(120, 120, 180);
     font-size: 0.8em;
     letter-spacing: 2px;
     font-weight: 400;
